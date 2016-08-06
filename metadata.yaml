@@ -1,0 +1,40 @@
+_repo: White-Jacket--Or-The-World-on-a-Man-of-War_10712
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Melville, Herman
+    alias: Melville, Hermann
+    birthdate: 1819
+    deathdate: 1891
+    gutenberg_agent_id: '9'
+    url: http://www.gutenberg.org/2009/agents/9
+    wikipedia: http://en.wikipedia.org/wiki/Herman_Melville
+description: "White-Jacket; or, The World in a Man-of-War is the fifth book by American\
+  \ writer Herman Melville, first published in London in 1850. The book is based on\
+  \ the author's fourteen months service in the United States Navy, aboard the frigate\
+  \ USS \"Neversink\" (actually the USS United States).\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10712'
+  wikidata: Q1431433
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Warships -- Fiction'
+- !lcsh 'United States -- History, Naval -- 19th century -- Fiction'
+- !lcsh 'Flagellation -- Fiction'
+- !lcsh 'Sea stories'
+- !lcsh 'Sailors -- Fiction'
+- !lcsh 'Naval discipline -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: White Jacket; Or, The World on a Man-of-War
+url: http://www.gutenberg.org/ebooks/10712
+wikipedia:
+- https://fr.wikipedia.org/wiki/Vareuse-Blanche
+- https://de.wikipedia.org/wiki/Wei%C3%9Fjacke_oder_Die_Welt_auf_einem_Kriegsschiff
+- https://en.wikipedia.org/wiki/White-Jacket
+- https://it.wikipedia.org/wiki/Giacchetta_bianca
